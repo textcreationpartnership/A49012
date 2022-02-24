@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Com' Concil' tent' in Cam'a Gui'hald civit' London' die Veneris decimo quinto die Junij 1694 ... this day the following act past into an act of this court.</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49012</idno>
+            <idno type="STC">Wing L2861C</idno>
+            <idno type="STC">ESTC R39356</idno>
+            <idno type="EEBO-CITATION">18369029</idno>
+            <idno type="OCLC">ocm 18369029</idno>
+            <idno type="VID">107429</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49012)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107429)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1637:44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Com' Concil' tent' in Cam'a Gui'hald civit' London' die Veneris decimo quinto die Junij 1694 ... this day the following act past into an act of this court.</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Roycroft ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Repealing laws pertaining to qualifications for the office of sheriff of the city of London.</note>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sheriffs --  England --  London.</term>
+               <term>London (England) --  Politics and government.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Act_of_Common_Council__City_of_London">
+            <pb n="1" facs="tcp:107429:1"/>
+            <!-- PDF PAGE 19 -->
+            <head type="illustration">
+               <figure>
+                  <figDesc>coat of arms of the City of London</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <dateline>Com' Concil' tent' in Cam'a Gui'hald Civit' <hi>London'</hi> 
+                  <date>die <hi>Veneris</hi> decimo quinto die <hi>Junij 1694.</hi> Anno<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Regui Dom' <hi>Will' &amp;</hi> Dom' <hi>Mariae</hi> nunc Regis <hi>&amp;</hi> Reginae Angl', <hi>&amp;c. ſexto;</hi>
+                  </date> 
+                  <hi>coram Will' Aſhburſt,</hi> Mil' Major' dictae Civit'; <hi>Roberto Clayton,</hi> Mil'; <hi>Patienc' Ward,</hi> Mil'; <hi>Will' Pritchard,</hi> Mil'; <hi>Roberto Jeffryes,</hi> Mil'; <hi>Thoma Lane,</hi> Mil'; <hi>Edr'o Clark,</hi> Mil'; <hi>Franc'o Child,</hi> Mil'; <hi>Ric'o Levitt,</hi> Mil'; <hi>Thoma Cook,</hi> Mil' Alderman' <hi>&amp; Thoma Abney,</hi> Mil', <hi>&amp; Will' Hedges</hi> Mil', Vic' <hi>&amp;</hi> Alderman' dictae Civit' nec non major' Parte Coi'ar' dictae Civitat', in eod' Coi' Concil' tunc <hi>&amp;</hi> ibm' Aſſemblat'.</dateline>
+            </opener>
+            <head>This day the following Act paſt into an Act of this Court.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by a Clauſe in an Act of Common Council made the twen<g ref="char:EOLhyphen"/>tieth day of <hi>July,</hi> in the ſeventh Year of the Reign of King <hi>Charles</hi> the Firſt, in the Majoralty of Sir <hi>Robert Ducy,</hi> It was amongſt other things En<g ref="char:EOLhyphen"/>acted
+<pb n="2" facs="tcp:107429:2"/>
+               <!-- PDF PAGE 20 -->in the words following, That the Lord Mayor of this City, for the time be<g ref="char:EOLhyphen"/>ing, ſhall not at any time hereafter chooſe or elect any Commoner of this City to be Sheriff of the City of <hi>London,</hi> and of the County of <hi>Middleſex,</hi> ſo long as there ſhall then be an Alderman of the City Eli<g ref="char:EOLhyphen"/>gible to the ſaid Office.</p>
+            <p>Which ſaid Clauſe, in reſpect of Acci<g ref="char:EOLhyphen"/>dents or Circumſtances, may not at all times be convenient to be practiſed.</p>
+            <p>And whereas by another clauſe in an Act of Common Council, made the ſixth day of <hi>June,</hi> in the thirty fifth Year of King <hi>Charles</hi> the Second, in the Majoral<g ref="char:EOLhyphen"/>ty of Sir <hi>William Pritchard,</hi> Knight; It was amongſt other things Enacted in the words following, That the Perſon who ſhall be Nominated and Elected according to ancient uſage by the Lord Mayor of this City, for the time being, to be one of the Sheriffs of the City of <hi>London</hi> and County of <hi>Middleſex,</hi> and ſuch Election ſhall be de<g ref="char:EOLhyphen"/>clared to the Commons of the ſaid City aſſembled in Common Hall upon the twen<g ref="char:EOLhyphen"/>ty fourth day of <hi>June,</hi> ſhall there by the ſaid Commons be confirmed and allowed to be one of the Sheriffs of the ſaid City and County accordingly: And that upon propoſing the ſaid Perſon to be confirmed to he ſaid Common Hall, in caſe any Hands
+<pb n="3" facs="tcp:107429:2"/>
+               <!-- PDF PAGE 20 -->ſhall be holden up in token of Confirmation, the ſaid Perſon ſhall be taken to be confirmed and allowed, and then another Perſon ſhall be choſen by majority of Hands to be the other of the ſaid Sheriffs, and to join with him that ſhall be ſo confirmed.</p>
+            <p>Which ſaid Clauſe being not only re<g ref="char:EOLhyphen"/>pugnant to reaſon, but contrary to the Rules and Methods of Elections;</p>
+            <p>Be it therefore Enacted by the Mayor, Aldermen and Commons in Common Council aſſembled, and by the Authority of the ſame, that the ſaid ſeveral Clauſes before-recited, and either of them, and e<g ref="char:EOLhyphen"/>very Article and Thing contained in them, or either of them, ſhall be, and are hereby repealed, annulled and made void.</p>
+            <p>And Whereas by ſeveral Acts of Com<g ref="char:EOLhyphen"/>mon Council, the Election of Sheriffs, Chamberlain, Bridgmaſters, and Audi<g ref="char:EOLhyphen"/>tors of the Chamberlain and Bridghouſe-Accounts, and Aleconners, are appointed on <hi>Midſummer-day</hi> yearly, except the Sheriff or Sheriffs, Chamberlain, or other of the ſaid Officers, for the time being, ſhall die, or for juſt Cauſe be removed: And where<g ref="char:EOLhyphen"/>as in ſome years (as in this preſent year) <hi>Midſummer-day</hi> hapneth to fall on the Lords day, commonly called <hi>Sunday,</hi> which ought to be kept holy, and is a neceſſary and re<g ref="char:EOLhyphen"/>quired
+<pb n="4" facs="tcp:107429:3"/>
+               <!-- PDF PAGE 21 -->part of the ſervice of God, and en<g ref="char:EOLhyphen"/>joyned by the Laws and Statutes of this Realm;</p>
+            <p>Be it therefore Enacted and Declared, That from henceforth, whenſoever <hi>Mid<g ref="char:EOLhyphen"/>ſummer-day</hi> ſhall happen to be on the Lords day, commonly called <hi>Sunday,</hi> that the Ele<g ref="char:EOLhyphen"/>ction of the Sheriffs, Chamberlain, Bridg<g ref="char:EOLhyphen"/>maſters, Auditors of the Chamberlain and Bridghouſe Accounts, and Alecon<g ref="char:EOLhyphen"/>ners, ſhall be on the day next following, any Act or Acts, or any other Vſage to the Contrary notwithſtanding.</p>
+            <closer>
+               <signed>Goodfellow.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Samuel Roycroft,</hi> Printer to the Honourable City of <hi>London.</hi> 1694.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
